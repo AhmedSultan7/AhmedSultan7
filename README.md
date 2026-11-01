@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20Sultan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20DevOps%20and%20Cloud%20Engineer&descAlignY=58&descSize=20" alt="Ahmed Sultan banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CE8&center=true&vCenter=true&width=600&lines=From+commit+to+Kubernetes%2C+automated.;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Helm;AWS+Certified+Cloud+Practitioner;Open+to+junior+DevOps+and+cloud+roles" alt="Typing animation" />
+<a href="https://github.com/AhmedSultan7">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CE8&center=true&vCenter=true&width=600&lines=From+commit+to+Kubernetes%2C+automated.;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Helm;AWS+Certified+Cloud+Practitioner;Open+to+junior+DevOps+and+cloud+roles" alt="Typing animation" />
+</a>
 
 <br/>
 
@@ -18,9 +20,9 @@
 
 I build pipelines that take a containerized app from commit to Kubernetes. I'm a Computer Science graduate (MUST, 2025) with an AWS Cloud Practitioner certification, a networking foundation from CCNA v7, and a hands-on habit of learning through labs and real projects.
 
-🎯 **Looking for:** junior DevOps, cloud, or internship roles
-🌍 **Based in:** Egypt
-🗣️ **Languages:** Arabic, English
+- 🎯 **Looking for:** junior DevOps, cloud, or internship roles
+- 🌍 **Based in:** Egypt
+- 🗣️ **Languages:** Arabic, English
 
 ---
 
@@ -38,7 +40,7 @@ I build pipelines that take a containerized app from commit to Kubernetes. I'm a
 | 📦 **Containers & Orchestration** | Docker, Kubernetes, Helm, Minikube |
 | ☁️ **Cloud** | AWS |
 | 🐧 **OS & Networking** | Linux, CCNA-level networking (routing, switching) |
-| 💻 **Scripting** | Bash, Python,  |
+| 💻 **Scripting** | Bash, Python, JavaScript |
 
 ---
 
@@ -85,16 +87,6 @@ Manifests and notes from my Kubernetes learning.
 
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🌐 **NTI: CCNA v7, Routing and Switching**, completed with 96%
-
----
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmedSultan7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSultan7&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
 
 ---
 
