@@ -87,7 +87,6 @@ Manifests and notes from my Kubernetes learning.
 - 🌐 **NTI: CCNA v7, Routing and Switching**, completed with 96%
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
