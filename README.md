@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20Sultan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20DevOps%20%26%20Cloud%20Engineer&descAlignY=58&descSize=20" alt="Ahmed Sultan banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20Sultan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20DevOps%20and%20Cloud%20Engineer&descAlignY=58&descSize=20" alt="Ahmed Sultan banner" />
 
-<a href="https://github.com/AhmedSultan7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CE8&center=true&vCenter=true&width=600&lines=From+commit+to+Kubernetes%2C+automated.;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Helm;AWS+Certified+Cloud+Practitioner;Open+to+junior+DevOps+%26+cloud+roles" alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CE8&center=true&vCenter=true&width=600&lines=From+commit+to+Kubernetes%2C+automated.;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Helm;AWS+Certified+Cloud+Practitioner;Open+to+junior+DevOps+and+cloud+roles" alt="Typing animation" />
 
 <br/>
 
