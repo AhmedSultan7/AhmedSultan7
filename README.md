@@ -38,7 +38,7 @@ I build pipelines that take a containerized app from commit to Kubernetes. I'm a
 | 📦 **Containers & Orchestration** | Docker, Kubernetes, Helm, Minikube |
 | ☁️ **Cloud** | AWS |
 | 🐧 **OS & Networking** | Linux, CCNA-level networking (routing, switching) |
-| 💻 **Scripting** | Bash, Python, JavaScript |
+| 💻 **Scripting** | Bash, Python,  |
 
 ---
 
